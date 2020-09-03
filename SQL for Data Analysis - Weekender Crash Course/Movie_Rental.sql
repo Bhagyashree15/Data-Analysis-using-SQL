@@ -1,5 +1,3 @@
-*******************************************/
-
 /*Before you run these queries, make sure to create Sakila DB and import the related data first*/
 
 /* Email Campaigns for customers of Store 2
